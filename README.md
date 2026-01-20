@@ -12,18 +12,6 @@ It's Sneha Mishra
   🎓 B.Tech CSE @ Banasthali Vidyapith (2023–2027)
 </p>
 
----
-
-<p align="center">
-  <a href="https://github.com/sneha2487">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=sneha2487&show_icons=true&theme=gotham&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/sneha2487">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneha2487&layout=compact&theme=gotham&hide_border=true" />
-  </a>
-</p>
-
-<br>
 
 - 😄 Interests: **Software Development, Problem Solving, Core CS**
 - 🔭 Currently working on **Java & Python-based projects**
