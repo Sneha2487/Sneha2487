@@ -2,7 +2,7 @@
 It's Sneha Mishra
 
 <h3 align="center">Computer Science Engineering Student</h3>
-<h4 align="center">Aspiring Software Developer | Problem Solver | Tech Enthusiast</h4>
+<h4 align="center">Software Developer | Problem Solver | Tech Enthusiast</h4>
 
 <p align="center">
   📍 Lansdowne, Uttarakhand  
